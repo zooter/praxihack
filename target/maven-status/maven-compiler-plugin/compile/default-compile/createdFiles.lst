@@ -1,0 +1,4 @@
+com/praxify/Rest/PatientResource.class
+com/praxify/pojos/Patient.class
+com/praxify/Application.class
+com/praxify/repository/PatientRepository.class
